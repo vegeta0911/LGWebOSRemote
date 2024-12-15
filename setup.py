@@ -27,7 +27,7 @@ setup(
     ],
     install_requires=[
         'wakeonlan',
-        'ws4py',
+        'scarlette',
         'requests',
         'getmac',
     ],
