@@ -27,7 +27,7 @@ setup(
     ],
     install_requires=[
         'wakeonlan',
-        'scarlette',
+        'starlette',
         'requests',
         'getmac',
     ],
