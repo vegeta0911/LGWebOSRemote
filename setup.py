@@ -15,7 +15,7 @@ setup(
     license='MIT',
     author='Karl Lattimer',
     author_email='karl@qdh.org.uk',
-    url='https://github.com/klattimer/LGWebOSRemote',
+    url='https://github.com/vegeta0911/LGWebOSRemote',
     download_url=LGTV_DOWNLOAD_URL,
     entry_points={
         'console_scripts': [
@@ -26,9 +26,9 @@ setup(
         'smarthome', 'smarttv', 'lg', 'tv', 'webos', 'remote'
     ],
     install_requires=[
-        'wakeonlan',
-        'ws4py',
-        'requests',
+        #'wakeonlan',
+        #'ws4py',
+        #'requests',
         'getmac',
     ],
     data_files=[
