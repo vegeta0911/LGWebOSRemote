@@ -26,9 +26,9 @@ setup(
         'smarthome', 'smarttv', 'lg', 'tv', 'webos', 'remote'
     ],
     install_requires=[
-        #'wakeonlan',
-        #'ws4py',
-        #'requests',
+        'wakeonlan',
+        'ws4py',
+        'requests',
         'getmac',
     ],
     data_files=[
